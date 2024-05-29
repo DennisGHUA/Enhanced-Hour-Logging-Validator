@@ -8,7 +8,7 @@ To install the Enhanced Hour Logging Validator, follow these steps:
 
 1. **Install a User Script Manager**: Add a user script manager extension to your browser:
 
-   - **Chrome**: [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - **Chromium-based browsers (Chrome, Edge, Brave, Vivaldi)**: [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - **Firefox**: [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
    - **Safari**: [Tampermonkey](https://apps.apple.com/us/app/tampermonkey/id1482490089)
 
