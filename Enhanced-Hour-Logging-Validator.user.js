@@ -6,8 +6,8 @@
 // @author       Dennis
 // @match        https://www.myatos.net/*
 // @grant        none
-// @downloadURL
-// @updateURL
+// @downloadURL  https://github.com/DennisGHUA/Enhanced-Hour-Logging-Validator/raw/main/Enhanced-Hour-Logging-Validator.user.js
+// @updateURL    https://github.com/DennisGHUA/Enhanced-Hour-Logging-Validator/raw/main/Enhanced-Hour-Logging-Validator.user.js
 // ==/UserScript==
 
 (function() {
