@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Enhanced Hour Logging Validator
 // @namespace    https://github.com/DennisGHUA/Enhanced-Hour-Logging-Validator
-// @version      1.0
+// @version      1.1
 // @description  Prevent errors in hour logging by highlighting discrepancies
 // @author       Dennis
 // @match        https://www.myatos.net/*
@@ -52,7 +52,7 @@
             document.body.appendChild(banner);
         }
         banner.textContent = message;
-        changeReleaseButtonColor(COLORS.WARN);
+        changeButtonColor(COLORS.WARN);
     }
 
     // Function to remove the banner
