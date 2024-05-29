@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Enhanced Hour Logging Validator
 // @namespace    https://github.com/DennisGHUA/Enhanced-Hour-Logging-Validator
-// @version      0.1
+// @version      1.0
 // @description  Prevent errors in hour logging by highlighting discrepancies
 // @author       Dennis
 // @match        https://www.myatos.net/*
@@ -86,7 +86,7 @@
 
                 let color = '';
 
-                if (leftValue == rightValue && rightValue == 0.00) {
+                if (leftValue == rightValue && rightValue == 0) {
                     handleTextColor(span, COLORS.GOOD, 'line-through');
                 } else if (leftValue > rightValue) {
                     color = COLORS.BAD;
