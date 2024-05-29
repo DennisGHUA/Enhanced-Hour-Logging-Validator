@@ -2,24 +2,23 @@
 
 ## Description
 
-The **Enhanced Hour Logging Validator** is a user script designed to prevent errors in hour logging by highlighting discrepancies. It provides visual cues to identify potential issues in hour entries, ensuring accuracy and reliability in logging hours.
+The **Enhanced Hour Logging Validator** is a user script that helps ensure accurate hour logging by highlighting discrepancies with visual cues.
 
 ## Features
 
-- **Color-coded Highlighting**: Discrepancies in hour entries are highlighted with different colors to indicate the severity of the deviation.
-- **Real-time Validation**: The script continuously monitors and validates hour entries as the user interacts with the logging interface.
-- **Error Banner**: A banner is displayed at the bottom of the page to alert users when discrepancies are detected, providing immediate feedback.
-- **Button and Progress Bar Colorization**: Buttons and progress bars on the interface change color according to the severity of the discrepancies, enhancing visibility and awareness.
+- **Color-coded Highlights**: Marks discrepancies with different colors based on severity.
+- **Real-time Validation**: Checks and validates hour entries as you log them.
+- **Error Banner**: Alerts you with a banner at the bottom of the page when issues are found.
+- **Color-coded Buttons and Progress Bars**: Changes colors to indicate the severity of discrepancies.
 
 ## Installation
 
-To use the Enhanced Hour Logging Validator, follow these steps:
+To install the Enhanced Hour Logging Validator, follow these steps:
 
-1. **Install a User Script Manager**: Ensure you have a user script manager extension installed in your browser. You can install one of the following extensions:
+1. **Install a User Script Manager**: Add a user script manager extension to your browser:
 
-    - **For Chrome**: Install Tampermonkey from the [Chrome Web Store](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo).
-    - **For Firefox**: Install Tampermonkey from the [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) page.
-    - **For Safari**: Install Tampermonkey from the [Safari Extensions Gallery](https://apps.apple.com/us/app/tampermonkey/id1482490089).
+   - **Chrome**: [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - **Firefox**: [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+   - **Safari**: [Tampermonkey](https://apps.apple.com/us/app/tampermonkey/id1482490089)
 
-
-2. **[Install the User Script](https://github.com/DennisGHUA/Enhanced-Hour-Logging-Validator/raw/main/Enhanced-Hour-Logging-Validator.user.js)**: Once you have a user script manager installed, click on the left to download the script. The user script manager should prompt you to install it.
+2. **Install the User Script**: [Click here to install the user script](https://github.com/DennisGHUA/Enhanced-Hour-Logging-Validator/raw/main/Enhanced-Hour-Logging-Validator.user.js) once you have Tampermonkey installed.
