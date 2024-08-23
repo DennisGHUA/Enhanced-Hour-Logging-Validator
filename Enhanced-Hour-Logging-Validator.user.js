@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Enhanced Hour Logging Validator
 // @namespace    https://github.com/DennisGHUA/Enhanced-Hour-Logging-Validator
-// @version      1.1
+// @version      1.2
 // @description  Prevent errors in hour logging by highlighting discrepancies
 // @author       Dennis
-// @match        https://www.myatos.net/*
+// @match        https://*.myatos.net/*
 // @grant        none
 // @downloadURL  https://github.com/DennisGHUA/Enhanced-Hour-Logging-Validator/raw/main/Enhanced-Hour-Logging-Validator.user.js
 // @updateURL    https://github.com/DennisGHUA/Enhanced-Hour-Logging-Validator/raw/main/Enhanced-Hour-Logging-Validator.user.js
